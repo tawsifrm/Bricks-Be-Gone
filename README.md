@@ -23,4 +23,9 @@ Welcome to "Bricks Be Gone" - a classic brick breaker game developed for Android
 12. **Dynamic Movement Control:** The `Velocity` class encapsulates the x and y components of an object's velocity, allowing for smooth and controlled movement within the game.
 13. **Getter and Setter Methods:** Provides methods to retrieve and modify the x and y components of the velocity, enabling external classes to manage the object's movement dynamically.
 
-Feel free to share more files or let me know if you need any further modifications!
+## Demonstration
+(https://www.youtube.com/watch?v=NzXjOZpUVBk)
+
+
+
+
